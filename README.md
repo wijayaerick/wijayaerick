@@ -6,8 +6,11 @@
 <a href="https://www.instagram.com/wijayaerick"><img align="left" alt="Erick's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/wijayaerick52"><img align="left" alt="Erick's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://twitter.com/wijayaerick52"><img align="left" alt="Erick's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<!--
 <a href="https://t.me/wijayaerick"><img align="left" alt="Erick's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
+-->
 
+<br />
 <br />
 
 I'm Erick, a Software Engineer from Indonesia, currently living in Jakarta, Indonesia.
@@ -34,9 +37,7 @@ I'm Erick, a Software Engineer from Indonesia, currently living in Jakarta, Indo
 
 <!--
 **wijayaerick/wijayaerick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
