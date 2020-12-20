@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I'm Erick, a Software Engineer from Indonesia, currently living in Jakarta, Indonesia.
+I'm Erick, a Software Engineer from Indonesia, currently living in Singapore.
 
 **Languages and Tools:**
 
