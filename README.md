@@ -32,7 +32,7 @@ I'm Erick, a Software Engineer from Indonesia, currently living in Singapore.
 
 <details>
   <summary><b>My GitHub Stats</b></summary>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wijayaerick&show_icons=true&theme=default" alt="wijayaerick" />
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wijayaerick&show_icons=true&theme=algolia" alt="wijayaerick" />
 </details>
 
 <!--
