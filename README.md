@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/wijayaerick"><img align="left" alt="Erick's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="http://stackoverflow.com/u/11520747"><img align="left" alt="Erick's StakOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-<a href="https://www.reddit.com/user/wijayaerick"><img align="left" alt="Erick's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" /></a>
+<a href="http://stackoverflow.com/u/11520747"><img align="left" alt="Erick's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
 <a href="https://www.instagram.com/wijayaerick"><img align="left" alt="Erick's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <a href="https://www.facebook.com/wijayaerick52"><img align="left" alt="Erick's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://twitter.com/wijayaerick52"><img align="left" alt="Erick's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
