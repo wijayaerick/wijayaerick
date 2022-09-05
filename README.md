@@ -18,14 +18,12 @@ I'm Erick, a Software Engineer from Indonesia, currently living in Singapore.
 
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Go-29beb0?style=flat-square&logo=go&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-9b111e?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-a41e11?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-ffd43b?style=flat-square&logo=Python&logoColor=" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-5382a1?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JS-323330?style=flat-square&logo=javascript&logoColor=" />
 </p>
 
