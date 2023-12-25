@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/wijayaerick"><img align="left" alt="Erick's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="http://stackoverflow.com/u/11520747"><img align="left" alt="Erick's StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>
-<a href="https://www.instagram.com/wijayaerick"><img align="left" alt="Erick's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-<a href="https://www.facebook.com/wijayaerick52"><img align="left" alt="Erick's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://twitter.com/wijayaerick52"><img align="left" alt="Erick's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<!--
-<a href="https://t.me/wijayaerick"><img align="left" alt="Erick's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a>
--->
+<a href="https://www.linkedin.com/in/wijayaerick"><img align="left" alt="Erick's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" /></a>
+<a href="http://stackoverflow.com/u/11520747"><img align="left" alt="Erick's StackOverflow" width="22px" src="https://cdn.simpleicons.org/stackoverflow/black/white" /></a>
+<a href="https://www.instagram.com/wijayaerick"><img align="left" alt="Erick's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" /></a>
+<a href="https://www.facebook.com/wijayaerick52"><img align="left" alt="Erick's Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/black/white" /></a>
 
 <br />
 <br />
@@ -29,7 +25,11 @@ I'm Erick, a Software Engineer from Indonesia, currently living in Singapore.
 
 <details>
   <summary><b>My GitHub Stats</b></summary>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wijayaerick&show_icons=true&theme=algolia" alt="wijayaerick" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wijayaerick&theme=dark">
+    <img alt="Shows wijayaerick's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=wijayaerick&theme=default">
+  </picture>
 </details>
 
 <!--
