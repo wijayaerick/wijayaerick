@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/wijayaerick"><img align="left" alt="Erick's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" /></a>
-<a href="http://stackoverflow.com/u/11520747"><img align="left" alt="Erick's StackOverflow" width="22px" src="https://cdn.simpleicons.org/stackoverflow/black/white" /></a>
-<a href="https://www.instagram.com/wijayaerick"><img align="left" alt="Erick's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" /></a>
-<a href="https://www.facebook.com/wijayaerick52"><img align="left" alt="Erick's Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/black/white" /></a>
+<a href="https://www.linkedin.com/in/wijayaerick"><img align="left" alt="LinkedIn" width="66px" src="https://cdn.simpleicons.org/linkedinasdf/black/white" /></a>
+<a href="http://stackoverflow.com/u/11520747"><img align="left" alt="SO" width="22px" src="https://cdn.simpleicons.org/stackoverflow/black/white" /></a>
+<a href="https://www.instagram.com/wijayaerick"><img align="left" alt="IG" width="22px" src="https://cdn.simpleicons.org/instagram/black/white" /></a>
 
 <br />
 <br />
